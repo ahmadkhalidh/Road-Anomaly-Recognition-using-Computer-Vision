@@ -7,7 +7,7 @@ A machine learning-based system to detect road anomalies such as **potholes** an
 - **Anomaly Detection:** Detects road anomalies (e.g., potholes, cracks, debris) using image data.
 - **Multi-Source Data:** Combines publicly available datasets and local road images to train and evaluate the model.
 - **Classification:** Classifies anomalies into categories like potholes, cracks, and surface damage.
-- **Visualization:** Interactive web-based platform to detect anomalies.
+- **Visualization:** web-based platform to detect anomalies.
 
 ## Technologies Used
 - **Machine Learning:** TensorFlow for model training.
